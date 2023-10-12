@@ -1,2 +1,2 @@
-# chaotic_system_demonstration
+# Chaotic system demonstration
 Here I demonstrate the idea of chaos (sensitive dependence on initial conditions) using the logistic map as a model system.
